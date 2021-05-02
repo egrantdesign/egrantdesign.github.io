@@ -32,6 +32,7 @@
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
+    opacity: 60%;
   }
   
   .hovereffect h2 {
@@ -67,7 +68,7 @@
     transition: all 0.4s ease-in;
     opacity: 0;
     filter: alpha(opacity=0);
-    color: #fff;
+    color: white;
     margin-top:100px;
   }
   
