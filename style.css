@@ -249,7 +249,7 @@ nav{
   /* MEDIA QUERY FOR SMALL SCREENS */
  @media (max-width:1100px){
     .image-gallery {
-      padding-bottom: 200px;
+      padding-bottom: 0px;
         margin-bottom: 600px;
         grid-template-columns: 1fr minmax(350px, 1fr) minmax(350px, 1fr) 1fr;
         grid-template-areas:
@@ -261,17 +261,13 @@ nav{
  }
 
 /* MEDIA QUERY FOR MOBILE */
- @media (max-width:768px){
+ @media (max-width:735px){
      nav {
          padding-left: 0;
      }
 
-    .paralax-wrapper {
-        padding-left: 0%;
-    }
-
     .image-gallery {
-        padding-bottom: 200px;
+        padding-bottom: 200%;
         grid-template-columns: 1fr minmax(400px, 1fr) 1fr;
         grid-template-areas:
         ".a."
