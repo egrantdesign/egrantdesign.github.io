@@ -80,9 +80,9 @@ nav{
     display: grid;
     grid-template-columns: 1fr minmax(350px, 1fr)  minmax(350px, 1fr) minmax(350px, 1fr) 1fr;
     grid-template-rows: auto;
-    grid-gap: 40px;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    grid-gap: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
     grid-template-areas:
     ". a b c ."
     ". d e f ."
@@ -135,7 +135,7 @@ nav{
 .about-me {
     height: 100vh!important;
     background-color: white !important;
-    padding: 1vh 50px 0 50px;
+    padding: 20vh 50px 0 50px;
     column-count: 2;
 }
 
@@ -143,8 +143,8 @@ nav{
   width: 80%;
   border-radius: 8%;
   margin-bottom: 4em;
-  margin-left: 30px;
-  margin-top: 125px;
+  margin-left: 3.7em;
+  margin-top: 4.5em;
 }
 
 .about-me p{
