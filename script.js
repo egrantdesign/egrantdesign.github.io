@@ -3,6 +3,7 @@
         ' typographer.',
         ' writer.',
         ' creative.',
+        ' graphic designer.',
         
         ], i = 0;
     setInterval(function(){

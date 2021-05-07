@@ -204,6 +204,80 @@ nav{
     width: 450px;
 }
 
+.projectpics {
+  padding-top: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.lifepics {
+  padding-top: 5%;
+}
+
+
+.bzybee-title {
+  padding-top: 16%;
+  padding-bottom: 2%;
+  color: #ffce34;
+  font-family: 'futura-pt', sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+  text-align:left;
+  padding-left: 10%;
+
+}
+
+.life-title {
+  padding-top: 16%;
+  padding-bottom: 2%;
+  color: #f5c6dd;
+  font-family: 'futura-pt', sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+  text-align:left;
+  padding-left: 10%;
+  font-style: italic;
+}
+
+.fnf-title {
+  padding-top: 16%;
+  padding-bottom: 2%;
+  color: #42a5dd;
+  font-family: 'futura-pt', sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+  text-align:left;
+  padding-left: 10%;
+
+}
+
+.futura-title {
+  padding-top: 16%;
+  padding-bottom: 2%;
+  color: #ff0033;
+  font-family: 'futura-pt', sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+  text-align:left;
+  padding-left: 10%;
+
+}
+
+
+
+.project-description {
+  color: black;
+  text-align:left;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1 {
+  font-size: 1.2em;
+  font-family: 'futura-pt', sans-serif;
+  font-weight: 400;
+}
+
 
    /* footer section */
    footer{
